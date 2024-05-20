@@ -62,5 +62,6 @@ Your first task is to implement the Prewitt operator. Complete the public int pr
 
 ### Shortest Path Calculation
 The shortest path is calculated by evaluating all possible starting positions in the first row and computing the shortest path from each position using the gradient image. The shortest path is then traced back from the bottom to the top row.
+
 ![shortest path example](a_res/short_path.png)
 shortest path example
